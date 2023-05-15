@@ -9,15 +9,17 @@
 
 
 
-![image](https://github.com/AvishkarVichare/paytm-clone-tailwind/blob/master/images/img.png)
+![image](https://github.com/webdevankur/Paytm_Clone_Tailwind_CSS/blob/main/Thumbnail/Screenshot%20(156).png)
 
 
-![image](https://github.com/AvishkarVichare/paytm-clone-tailwind/blob/master/images/img2.png)
+![image](https://github.com/webdevankur/Paytm_Clone_Tailwind_CSS/blob/main/Thumbnail/Screenshot%20(157).png)
 
-![image](https://github.com/AvishkarVichare/paytm-clone-tailwind/blob/master/images/img3.png)
+![image](https://github.com/webdevankur/Paytm_Clone_Tailwind_CSS/blob/main/Thumbnail/Screenshot%20(158).png)
 
-![image](https://github.com/AvishkarVichare/paytm-clone-tailwind/blob/master/images/img4.png)
+![image](https://github.com/webdevankur/Paytm_Clone_Tailwind_CSS/blob/main/Thumbnail/Screenshot%20(159).png)
 
-![image](https://github.com/AvishkarVichare/paytm-clone-tailwind/blob/master/images/img5.png)
+![image](https://github.com/webdevankur/Paytm_Clone_Tailwind_CSS/blob/main/Thumbnail/Screenshot%20(160).png)
 
-![image](https://github.com/AvishkarVichare/paytm-clone-tailwind/blob/master/images/img6.png)
+![image](https://github.com/webdevankur/Paytm_Clone_Tailwind_CSS/blob/main/Thumbnail/Screenshot%20(161).png)
+
+![image](https://github.com/webdevankur/Paytm_Clone_Tailwind_CSS/blob/main/Thumbnail/Screenshot%20(162).png)
